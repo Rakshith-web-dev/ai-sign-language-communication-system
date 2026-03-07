@@ -37,11 +37,13 @@ The system detects hand gestures using **MediaPipe and OpenCV**, classifies the 
 ---
 
 ## Project Structure
+
+```text
 ai-sign-language-communication-system
 │
 ├── src/
-│ └── vision/
-│ └── hand_detector.py
+│   └── vision/
+│       └── hand_detector.py
 │
 ├── dataset/
 │
